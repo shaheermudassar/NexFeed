@@ -1,0 +1,28 @@
+.search-button{
+    width: 30%;
+}
+@media screen and (max-width: 1030px) {
+    .search-button{
+        width: 50%;
+    }
+}
+.main-screen{
+    background-image: url('https://tecdn.b-cdn.net/img/new/slides/146.webp');
+    background-color: rgba(0, 0, 0, 0.26);
+    height: 100vh;
+}
+.main-screen-heading{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: grid;
+    justify-items: center;
+    align-content: center;
+}
+.navbar{
+    background: rgba(0, 0, 0, 0.336);
+}
+.NexFeed{
+    font-weight: 100;
+    font-size: 70px;
+    font-family: system-ui;
+}
